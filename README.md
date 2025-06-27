@@ -15,7 +15,7 @@
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/Emmatiko101/expense-tracker.git  
+   git clone https://github.com/emma7iko/expense-tracker.git  
    ```  
 
 2. **Navigate to the Project Directory**:  
